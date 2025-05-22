@@ -10,7 +10,7 @@ Drakkar est un siteweb  dédiée à la gestion et à la centralisation des activ
 - **Fonctionnalités clés :**  
   - 📅 Gestion et inscription aux événements du BDE  
   - 🔑 Accès personnalisé selon le profil utilisateur  
-- **Lien :** [Intra Drakkar](https://github.com/edwin-anne/IntraBDE)
+- **Lien :** Disponible uniquement aux membres du BDE.
 
 ### 🧩 DRAKKAR Plus
 
