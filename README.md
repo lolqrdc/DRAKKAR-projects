@@ -2,7 +2,7 @@
 
 ## 📂 Projets
 
-### 🏛️ Drakkar
+### 🏛️ Intra Drakkar
 
 [![Drakkar](https://img.shields.io/badge/Intra%20Drakkar-Plateforme%20Interne-orange)](https://github.com/edwin-anne/IntraBDE)
 
