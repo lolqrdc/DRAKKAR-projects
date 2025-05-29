@@ -4,13 +4,14 @@
 
 ### 🏛️ Intra Drakkar
 
-[![Drakkar](https://img.shields.io/badge/Intra%20Drakkar-Plateforme%20Interne-orange)](https://github.com/edwin-anne/IntraBDE)
+[![Drakkar](https://img.shields.io/badge/Intra%20Drakkar-Plateforme%20Interne-orange)]((https://edb42.fr/login))
 
 Drakkar est un siteweb  dédiée à la gestion et à la centralisation des activités du BDE Drakkar. Elle permet aux membres et étudiants d’accéder facilement aux informations, événements et outils liés à la vie associative de 42 Le Havre. 🏫✨  
 - **Fonctionnalités clés :**  
   - 📅 Gestion et inscription aux événements du BDE  
   - 🔑 Accès personnalisé selon le profil utilisateur  
-- **Lien :** Disponible uniquement aux membres du BDE.
+- **Lien (github) :** Disponible uniquement aux membres du BDE.
+- **Lien** : [edb42.fr](https://edb42.fr/login)
 
 ### 🧩 DRAKKAR Plus
 
